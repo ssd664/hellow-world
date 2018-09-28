@@ -1,2 +1,4 @@
 # hellow-world
-Exercise
+行使
+hi
+smallred
